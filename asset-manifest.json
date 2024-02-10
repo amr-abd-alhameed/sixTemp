@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sixTemp/static/css/main.4fa120d8.css",
+    "main.js": "/sixTemp/static/js/main.41d68d1a.js",
+    "static/media/bg.jpg": "/sixTemp/static/media/bg.55385c91823e29ff6916.jpg",
+    "static/media/banner-bg.png": "/sixTemp/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/astronout.png": "/sixTemp/static/media/astronout.b42be4cff9123f7fe6b8.png",
+    "static/media/astronout1.png": "/sixTemp/static/media/astronout1.467feeceb9e216ba54a7.png",
+    "static/media/project-img1.png": "/sixTemp/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img2.png": "/sixTemp/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/sixTemp/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/sixTemp/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/meter1.svg": "/sixTemp/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "index.html": "/sixTemp/index.html",
+    "main.4fa120d8.css.map": "/sixTemp/static/css/main.4fa120d8.css.map",
+    "main.41d68d1a.js.map": "/sixTemp/static/js/main.41d68d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa120d8.css",
+    "static/js/main.41d68d1a.js"
+  ]
+}
